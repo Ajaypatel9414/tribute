@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.heading{
+    text-align: center;
+    border: 2px solid black;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+.era{
+    border: 2px solid grey;
+    padding: 0px;
+    margin: 0;
+    text-align: center;
+}
+
+span{
+    color: crimson;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Whisper", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.icons{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
